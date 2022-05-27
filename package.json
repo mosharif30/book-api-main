@@ -1,7 +1,7 @@
 {
-  "name": "burger-api",
+  "name": "book-api",
   "version": "1.0.0",
-  "description": "My Burger Api",
+  "description": "My book Api",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
